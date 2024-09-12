@@ -9,7 +9,7 @@ Only the most observant will be able to decipher the clues within these cryptic 
 ## Journal Entry 1: A Quiet Lead
 
 "Sometimes, the answers are closer than you think. A simple glance at the details can take you to places you never expected."_ 
-"Next time, don't forget your [**password**]: (**https://yourwebsite.com/vault**.")
+"Next time, don't forget your [password]: (https://yourwebsite.com/vault.")
 
 ## Journal Entry 2: A Whispered Secret
 
