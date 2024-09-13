@@ -8,13 +8,13 @@ Only the most observant will be able to decipher the clues within these cryptic 
 
 ## Journal Entry 1: A Quiet Lead
 
-"Sometimes, the answers are closer than you think. A simple glance at the details can take you to places you never expected."_ 
-"Next time, don't forget your [**password**]([https://wa.me/qr/AK6WKM43IHXEN1 ])
+"Sometimes, the answers are closer than you think. A simple glance at the details can take you to places you never expected."_  
+"Next time, don't forget your [**password**](https://wa.me/qr/AK6WKM43IHXEN1)"
 
 ## Journal Entry 2: A Whispered Secret
 
-"In the silence, a single word holds the key to unlocking the truth. It’s always in plain sight, hiding amongst the noise."
-"The cue is **safecrack**, but only for those who look closely enough."
+"In the silence, a single word holds the key to unlocking the truth. It’s always in plain sight, hiding amongst the noise."  
+"The cue is _**safecrack**_, but only for those who look closely enough."
 
 ## Journal Entry 3: A Final Warning
 
